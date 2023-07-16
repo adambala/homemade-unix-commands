@@ -1,0 +1,26 @@
+# OS junk files
+__MACOSX/
+*/__MACOSX/
+.DS_Store
+*/.DS_Store
+
+# Executables
+*.out
+*/*.out
+*.exe
+*/*.exe
+
+# Text files
+*/*.txt
+*.txt
+
+# Python files
+__pycache__/
+*/__pycache__/
+
+# IDE files
+.idea/
+*/.idea/
+.vscode/
+*/.vscode/
+
