@@ -28,4 +28,4 @@ Showing an example of `ls`
 - `+n` option displays file the `n`-th line.
 
 ## Contributing
-This repository is open for contribution. So feel free to open an issue and make pull requests.
+This repository is open for contributing. So feel free to open an issues and make pull requests.
