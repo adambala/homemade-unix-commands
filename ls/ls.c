@@ -1,7 +1,3 @@
-/*
- * Copyright (C) 2022  Adam Isakov  <https://github.com/adambala>
- */
-
 #include <stdio.h>
 #include <dirent.h>
 #include <stdlib.h>
