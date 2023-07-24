@@ -26,3 +26,6 @@ $ ./ls /insert/your/dirname/here
 - `tail` accepts *multiple* files as an argument;
 - `-n` option displays `n` last lines (`n = 10` by default);
 - `+n` option displays file the `n`-th line.
+
+## Contributing
+This repository is open for contribution. So feel free to open an issue and make pull requests.
