@@ -25,7 +25,7 @@ Showing an example of `ls`
 - `tail [+-n] [file1] [file2] [file3] ... [fileN]`;
 - `tail` accepts *multiple* files as an argument;
 - `-n` option displays `n` last lines (`n = 10` by default);
-- `+n` option displays file the `n`-th line.
+- `+n` option displays file from the `n`-th line.
 
 ## Contributing
 This repository is open for contributing. So feel free to open an issues and make pull requests.
